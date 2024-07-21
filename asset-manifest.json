@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d1efde2.css",
+    "main.js": "/static/js/main.8b215e9b.js",
+    "static/media/fantasy_night.jfif": "/static/media/fantasy_night.9a82bf6b64979c0f710f.jfif",
+    "static/media/fantasy_cave.jfif": "/static/media/fantasy_cave.df469789fa5fd46767f9.jfif",
+    "static/media/sprites.svg": "/static/media/sprites.c08944fed399e84633d0.svg",
+    "index.html": "/index.html",
+    "static/media/grabbing.svg": "/static/media/grabbing.92ec62eb995e79248066.svg",
+    "static/media/grab.svg": "/static/media/grab.6a052e927d39314632fd.svg",
+    "static/media/background.svg": "/static/media/background.73c746e88409ccb4b512.svg",
+    "static/media/compass.svg": "/static/media/compass.0f193cd39061ea43cc46.svg",
+    "main.2d1efde2.css.map": "/static/css/main.2d1efde2.css.map",
+    "main.8b215e9b.js.map": "/static/js/main.8b215e9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d1efde2.css",
+    "static/js/main.8b215e9b.js"
+  ]
+}
